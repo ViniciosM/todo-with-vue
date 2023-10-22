@@ -1,4 +1,8 @@
 # todo-vue
+To Do made with Vue
+
+# Demo
+![Demo da Aplicação](src/assets/todo-vue.gif)
 
 ## Project setup
 ```
